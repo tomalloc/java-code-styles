@@ -19,8 +19,4 @@
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseInnerClasses" value="true" />
-    <option name="COLLAPSE_INNER_CLASSES" value="true" />
-  </component>
 </application>
